@@ -70,7 +70,7 @@
 </script>
 
 <div class="container is-fluid">
-	<h1 class="is-size-3 block">Svelte Todo List App</h1>
+	<h1 class="is-size-3 title">Svelte Todo List App</h1>
 	<div class="columns">
 		<CardList 
 			cards={taskCards} 

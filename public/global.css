@@ -27,6 +27,12 @@ body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
+.title {
+  margin-top: 1em;
+  margin-bottom: 1em;
+  text-align: center;
+}
+
 a {
   color: rgb(0, 100, 200);
   text-decoration: none;
